@@ -1,0 +1,1 @@
+The dataset has been processed with feature scaling and categorical encoding. After preprocessing, we have 5 features including transformed and binned variables.

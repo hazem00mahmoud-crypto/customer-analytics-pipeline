@@ -1,0 +1,1 @@
+Feature discretization applied: 'age_binned' has distribution {'Young': np.int64(2), 'Senior': np.int64(2), 'Middle': np.int64(1)}. 'salary_binned' has distribution {'Low': np.int64(3), 'High': np.int64(2)}. 

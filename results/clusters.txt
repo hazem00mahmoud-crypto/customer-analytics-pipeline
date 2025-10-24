@@ -1,0 +1,16 @@
+K-Means Clustering Results
+==========================
+Number of clusters: 3
+Total samples: 5
+
+Samples per cluster:
+Cluster 0: 1 samples
+Cluster 1: 2 samples
+Cluster 2: 2 samples
+
+Cluster distribution:
+cluster
+0    1
+1    2
+2    2
+Name: count, dtype: int64
